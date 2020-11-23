@@ -1,5 +1,9 @@
 # The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition
 
+## Github
+https://github.com/shangzongyu/source-code/tree/master/src/the-pragmatic-programmer-2nd
+
+
 
 ## From the Preface to the First Edition
 The word **pragmatic** comes from the Latin pragmaticus—"skilled in business"—which in turn is derived from the Greek πραγματικός, meaning "fit for use".
@@ -20,6 +24,5 @@ What Makes a Pragmatic Programmer?
 All Pragmatic Programmers:
 - Care About Your Craft
 - Constantly be thinking, critiquing your work in real time
-- Continuously making many small improvements
-
+- Continuously making many small improvements [日拱一卒]
 

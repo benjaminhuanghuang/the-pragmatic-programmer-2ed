@@ -16,6 +16,16 @@ Tip 7 Remember the Big Picture
 
 Tip 8 Make Quality a Requirements Issue
 
+Tip 9 Invest Regularly in Your Knowledge Portfolio
+
+Tip 10 Critically Analyze What You Read and Hear
+
+Tip 11 English is Just Another Programming Language
+
+Tip 12 It’s Both What You Say and the Way You Say It
+
+Tip 13 Build Documentation In, Don’t Bolt It On
+
 
 
 

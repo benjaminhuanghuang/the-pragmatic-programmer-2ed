@@ -53,15 +53,46 @@ else cares. The frog just doesn’t notice the change.
 ## Topic 5. Good-Enough Software 
 When good-enough software is best
 
-Trade-offs are often involved
+Trade-offs are often involved. Involve Your Users in the Trade-Off
 
-Know When to Stop
+Know When to Stop. Don’t spoil a perfectly good program by overembellishment and overrefinement
 
 Shipping software not perfect
 
 ## Topic 6. Your Knowledge Portfolio 
 An investment in knowledge always pays the best interest. - Benjamin Franklin
 
+As the value of your knowledge declines, so does your value to your company or client
+
+Your ability to learn new things is your most important strategic asset. How to learn, what to learn?
+
+Managing a knowledge portfolio is very similar to managing a financial portfolio
+
+Invest Regularly in Your Knowledge Portfolio, apply the lessons you’ve learned to your current project.
+
+suggestions:
+- Learn at least one new language every year
+- Read a technical book each month
+- Read nontechnical books
+- Take classes, meetup, try different environments. Isolation can be deadly to your career
+- Stay current
+
+Critical Thinking
+- Ask the 5 Whys
+- Who does this benefit
+- What’s the context
+- When or Where would this work
+- Why is this a problem
 
 
+## Topic 7. Communicate
+- Know what you want to say.
+- Know your audience.
+- Choose your moment.
+- Choose a style.
+- Make it look good.
+- Involve your audience.
+- Be a listener.
+- Get back to people.
+- Keep code and documentation together.
 
