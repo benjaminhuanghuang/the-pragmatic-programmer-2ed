@@ -17,13 +17,16 @@ Topic 8. The Essence of Good Design
 Topic 9. DRY–The Evils of Duplication 
 
 Topic 10. Orthogonality 
+  not to split any one piece of knowledge across multiple system components
 
 Topic 11. Reversibility 
 
 Topic 12. Tracer Bullets 
+  gather requirements, test designs, and implement code
 
 Topic 13. Prototypes and Post-it Notes 
-
+  use prototyping to test architectures, algorithms, interfaces, and ideas
+  
 Topic 14. Domain Languages 
 
 Topic 15. Estimating 

@@ -26,6 +26,9 @@ Tip 12 It’s Both What You Say and the Way You Say It
 
 Tip 13 Build Documentation In, Don’t Bolt It On
 
+Tip 14 Good Design Is Easier to Change Than Bad Design
+
+
 
 
 
