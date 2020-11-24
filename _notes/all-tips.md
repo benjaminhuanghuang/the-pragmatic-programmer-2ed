@@ -28,6 +28,18 @@ Tip 13 Build Documentation In, Don’t Bolt It On
 
 Tip 14 Good Design Is Easier to Change Than Bad Design
 
+Tip 15 DRY—Don’t Repeat Yourself
+
+Tip 16 Make It Easy to Reuse
+
+Tip 17 Eliminate Effects Between Unrelated Things
+
+Tip 18 There Are No Final Decisions
+
+Tip 19 Forgo Following Fads
+
+Tip 20 Use Tracer Bullets to Find the Target
+
 
 
 
