@@ -40,7 +40,41 @@ Tip 19 Forgo Following Fads
 
 Tip 20 Use Tracer Bullets to Find the Target
 
+Tip 21 Prototype to Learn
 
+Tip 22 Program Close to the Problem Domain
 
+Tip 23 Estimate to Avoid Surprises
 
+Tip 24 Iterate the Schedule with the Code
+
+Tip 25 Keep Knowledge in Plain Text [productivity]
+
+Tip 26 Use the Power of Command Shells [productivity]
+
+Tip 27 Achieve Editor Fluency [productivity]
+
+Tip 28 Always Use Version Control
+
+Tip 29 Fix the Problem, Not the Blame [debug]
+
+Tip 30 Don’t Panic [debug]
+
+Tip 31 Failing Test Before Fixing Code [debug]
+
+Tip 32 Read the Damn Error Message [debug]
+
+Tip 33 “select” Isn’t Broken [debug]
+
+Tip 34 Don’t Assume It—Prove It [debug]
+
+Tip 35 Learn a Text Manipulation Language [productivity]
+
+Tip 36 You Can’t Write Perfect Software
+
+Tip 37 Design with Contracts
+
+Tip 38 Crash Early
+
+Tip 39 Use Assertions to Prevent the Impossible
 
