@@ -27,8 +27,13 @@ Whenever you find yourself thinking “but of course that could never happen,”
 Java VM with the –enableassertions flag to enable assert
 
 
-
 ## Topic 26. How to Balance Resources 
 
+allocates a resource should be responsible for deallocating it
+
+
+
 ## Topic 27. Don’t Outrun Your Headlights
+- Tip 42 Take Small Steps—Always
+- Tip 43 Avoid Fortune-Telling
 

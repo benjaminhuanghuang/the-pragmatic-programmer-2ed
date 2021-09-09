@@ -78,3 +78,9 @@ Tip 38 Crash Early
 
 Tip 39 Use Assertions to Prevent the Impossible
 
+Tip 40 Finish What You Start [deallocation]
+
+Tip 42 Take Small Steps—Always
+
+Tip 43 Avoid Fortune-Telling
+
