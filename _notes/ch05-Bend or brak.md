@@ -53,6 +53,7 @@ If a parent class has 20 methods, and the subclass wants to make use of just two
 - Tip 54 Use Mixins to Share Functionality
 
 ## Topic 32 Configuration
+
 - Tip 55 Parameterize Your App Using External Configuration
     - Credentials for external services (database, third party APIs, and so on)
     - Logging levels and destinations
@@ -61,5 +62,4 @@ If a parent class has 20 methods, and the subclass wants to make use of just two
     - Externally set parameters, such as tax rates
     - Site-specific formatting details
     - License keys
-
 
